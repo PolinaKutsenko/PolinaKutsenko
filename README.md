@@ -1,4 +1,4 @@
-### Привет, меня зовут Полина!✨
+### Hi! My name is Polina!✨
 
 <!--
 **PolinaKutsenko/PolinaKutsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,25 +17,24 @@ Here are some ideas to get you started:
 
 ## Frontend developer
 
-У меня высшее техническое образование по специальности "Электроэнергетические системы и сети", но душа моя лежит к IT, поэтому я здесь!
+I have a master's degree in "Electric power systems and networks", but my soul lies to IT, that's why I'm here!
 
-✨**Мои hard skills:**
+✨**My skills:**
 - JavaScript
   - DOM API
-  - React (с хуками)
-  - Redux (Redux Toolkit)
+  - React (with hooks)
+  - Redux (Redux Toolkit) - studying
 - i18next
 - HTML5
 - HTTP 1.0/1.1
-- автоматическое тестирование (фреймворк Jest - средний уровень)
+- automatic testing (Jest)
 - CSS3
   - Flex-box
   - Grid 
   - bootstrap
-- также есть опыт:
-  - английский язык (уровень А2)
-  - настройки webpack, babel, Eslint
-  - работы с WebSocket, Formik, yup, JWT, Jest
-  - взаимодействия по REST API
+- also have experience:
+  - English (level B1)
+  - Webpack, Eslint settings
+  - work with lodash, axios, yup, commander, onchange
   
-Подтверждение указанным навыкам смотри в проектах ->
+  For confirmation of these skills, see the projects ->
