@@ -29,9 +29,6 @@ I have a master's degree in "Electric power systems and networks", but my soul l
 - HTTP 1.0/1.1
 - automatic testing (Jest)
 - CSS3
-  - Flex-box
-  - Grid 
-  - bootstrap
 - also have experience:
   - English (level B1)
   - Webpack, Eslint settings
