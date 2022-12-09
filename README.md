@@ -35,3 +35,6 @@ I have a master's degree in "Electric power systems and networks", but my soul l
   - work with lodash, axios, yup, commander, onchange
   
   For confirmation of these skills, see the projects ->
+    
+   ### [Difference Calculator](https://github.com/PolinaKutsenko/project-difference-calculator)
+   ### [RSS Reader](https://github.com/PolinaKutsenko/project-RSS-reader)
