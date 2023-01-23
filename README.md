@@ -23,7 +23,7 @@ I have a master's degree in "Electric power systems and networks", but my soul l
 - JavaScript
   - DOM API
   - React (with hooks)
-  - Redux (Redux Toolkit) - studying
+  - Redux (Redux Toolkit)
 - i18next
 - HTML5
 - HTTP 1.0/1.1
@@ -38,3 +38,4 @@ I have a master's degree in "Electric power systems and networks", but my soul l
     
    ### [Difference Calculator](https://github.com/PolinaKutsenko/project-difference-calculator)
    ### [RSS Reader](https://github.com/PolinaKutsenko/project-RSS-reader)
+   ### [Slack](https://github.com/PolinaKutsenko/project-Slack) - in development
